@@ -6761,9 +6761,11 @@ blockquote {
   }
 }
 .cid-vzsOPwANRE .item .item-wrapper .card-box .item-img img {
-  height: 250px;
+  aspect-ratio: 3 / 4;
+  height: auto;
   width: 100%;
   object-fit: cover;
+  object-position: top;
 }
 .cid-vzsOPwANRE .item .item-wrapper .card-box .item-content {
   position: relative;
@@ -6926,9 +6928,11 @@ blockquote {
   }
 }
 .cid-vzsPGBoSKE .item .item-wrapper .card-box .item-img img {
-  height: 250px;
+  aspect-ratio: 3 / 4;
+  height: auto;
   width: 100%;
   object-fit: cover;
+  object-position: top;
 }
 .cid-vzsPGBoSKE .item .item-wrapper .card-box .item-content {
   position: relative;
@@ -7091,9 +7095,11 @@ blockquote {
   }
 }
 .cid-vzsQpu21sB .item .item-wrapper .card-box .item-img img {
-  height: 250px;
+  aspect-ratio: 3 / 4;
+  height: auto;
   width: 100%;
   object-fit: cover;
+  object-position: top;
 }
 .cid-vzsQpu21sB .item .item-wrapper .card-box .item-content {
   position: relative;
